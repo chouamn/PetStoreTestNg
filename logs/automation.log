@@ -1,0 +1,387 @@
+15:30:10.265 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+15:30:10.320 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+15:30:10.640 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+15:30:12.006 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+15:30:12.161 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+15:30:12.277 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+15:30:13.595 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+15:33:03.853 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+15:33:03.879 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+15:33:04.076 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+15:33:05.902 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+15:33:06.072 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+15:33:06.170 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+15:33:07.484 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+15:37:07.956 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+15:37:07.986 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+15:37:08.090 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+15:37:10.047 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+15:37:10.232 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+15:37:10.352 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+15:37:12.290 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+16:15:08.907 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+16:15:08.937 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+16:15:09.072 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+16:15:10.570 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+16:15:10.740 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+16:15:10.851 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+16:15:13.580 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+16:22:40.449 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+16:22:40.505 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+16:22:40.632 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+16:22:42.107 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+16:22:42.272 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+16:22:42.373 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+16:22:45.076 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+16:23:40.185 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+16:23:40.236 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+16:23:40.638 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+16:23:41.986 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+16:23:43.304 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+16:23:43.755 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+16:23:43.835 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+16:23:43.838 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+16:25:44.286 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+16:25:44.353 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+16:25:44.832 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+16:25:46.318 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+16:25:46.726 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+16:25:46.831 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+10:57:31.875 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+10:57:31.939 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+10:57:32.030 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+10:57:33.278 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+10:57:33.442 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+10:57:33.603 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+10:57:36.427 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+10:58:48.278 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+10:58:48.386 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+10:58:48.641 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+10:58:51.552 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+10:58:52.533 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+10:58:52.894 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+11:11:33.433 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+11:11:33.482 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+11:11:33.855 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+11:11:35.302 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+11:11:35.497 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+11:11:35.625 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+11:11:38.575 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+11:14:48.353 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+11:14:48.434 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+11:14:48.851 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+11:14:50.311 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+11:14:51.081 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+11:14:51.802 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+11:14:51.907 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+11:14:51.909 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+11:14:55.913 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+11:14:55.914 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+11:14:56.016 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+11:14:57.379 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+11:14:57.539 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+11:14:57.667 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:04:57.046 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:04:57.089 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:04:58.253 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+12:04:59.695 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:05:00.927 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+12:05:01.477 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:05:01.590 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+12:05:01.593 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+12:05:06.508 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+12:05:06.516 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:05:06.891 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:05:08.620 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:05:08.804 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:05:08.914 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:05:12.896 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+12:06:38.198 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+12:06:38.253 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:06:38.717 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:06:40.068 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:06:40.257 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:06:40.414 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:06:43.830 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+12:14:42.166 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:14:42.259 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:14:42.509 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:14:43.943 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:14:44.121 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:14:44.238 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:14:57.263 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:14:57.265 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:14:57.340 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:14:58.821 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:14:59.028 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:14:59.138 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:15:11.822 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:15:11.823 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:15:11.898 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:15:13.477 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:15:13.700 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:15:13.806 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:19:14.613 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:19:14.661 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:19:15.003 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+12:19:16.274 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:19:16.729 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+12:19:17.361 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:19:17.516 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+12:19:17.519 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+12:19:22.263 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+12:19:22.268 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:19:22.704 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:19:24.029 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:19:24.190 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:19:24.297 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:19:26.846 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+12:19:27.771 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:19:27.772 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:19:27.855 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:19:29.203 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:19:29.443 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:19:29.548 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:19:41.921 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:19:41.922 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:19:41.981 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:19:43.349 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:19:43.524 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:19:43.617 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:19:56.413 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:19:56.413 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:19:56.474 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:19:57.910 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:19:58.084 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:19:58.170 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:25:24.810 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:25:24.842 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:25:24.964 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+12:25:26.306 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:25:27.355 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+12:25:27.803 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:25:27.896 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+12:25:27.899 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+12:25:32.519 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+12:25:32.521 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:25:32.842 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:25:34.101 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:25:34.254 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:25:34.360 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:25:36.940 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:25:36.941 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:25:47.148 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:25:47.149 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:25:57.327 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:25:57.328 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:28:29.445 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:28:29.497 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:28:29.833 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+12:28:31.179 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:28:32.460 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+12:28:32.931 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:28:33.019 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+12:28:33.022 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+12:28:37.669 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+12:28:37.672 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:28:38.029 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:28:39.524 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:28:39.685 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:28:39.787 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:28:41.003 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+12:28:42.110 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:28:42.111 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:28:42.183 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:28:43.651 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:28:43.832 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:28:43.924 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:28:44.666 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:28:44.668 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:28:45.333 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:28:46.699 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:28:46.895 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:28:46.988 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:28:47.633 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:28:47.634 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:28:48.341 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:28:49.770 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:28:49.967 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:28:50.063 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:41:15.795 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+12:41:15.866 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:41:16.236 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:41:17.570 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:41:17.735 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:41:17.850 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:41:19.160 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+12:41:20.250 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:41:20.252 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:41:20.327 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:41:21.727 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:41:21.914 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:41:22.014 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:41:22.690 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:41:22.690 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:41:23.379 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:41:24.621 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:41:24.972 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:41:25.116 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:41:25.732 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+12:41:25.733 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+12:41:26.426 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+12:41:27.651 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+12:41:27.917 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+12:41:28.133 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+12:43:18.856 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:43:18.923 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:43:19.438 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+12:43:20.795 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:43:21.409 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+12:43:22.187 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:43:22.446 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+12:43:22.449 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+12:45:03.250 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:45:03.296 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:45:03.624 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+12:45:05.025 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:45:06.384 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+12:45:06.862 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+12:45:06.954 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+12:45:06.957 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+12:46:44.200 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:46:44.200 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:46:44.282 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:46:44.283 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:46:44.447 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+12:46:45.865 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegisterationTest - Test failed
+12:46:46.168 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegisterationTest - Test failed
+12:48:26.727 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:48:26.726 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+12:48:26.778 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:48:26.783 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+12:48:26.932 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+12:48:27.997 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegisterationTest - Test failed
+12:48:28.490 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegisterationTest - Test failed
+13:06:41.141 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+13:06:41.172 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+13:06:41.533 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+13:06:43.487 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:06:44.725 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+13:06:45.177 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:06:45.265 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+13:06:45.269 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+13:06:49.162 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+13:06:49.165 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:06:49.549 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:06:50.870 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:06:51.026 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:06:51.134 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:06:52.597 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+13:06:53.789 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+13:06:53.790 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:06:53.863 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:06:55.026 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:06:55.291 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:06:55.497 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:06:56.165 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+13:06:56.165 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:06:56.811 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:06:58.156 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:06:58.356 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:06:58.444 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:06:59.097 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+13:06:59.098 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:06:59.794 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:07:01.004 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:07:01.353 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:07:01.499 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:13:05.567 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+13:13:05.638 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+13:13:05.966 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+13:13:07.350 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:13:08.733 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+13:13:09.248 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:13:09.360 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+13:13:09.365 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+13:13:14.029 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+13:13:14.035 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:13:14.406 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:13:16.074 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:13:16.267 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:13:16.404 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:13:18.156 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+13:13:19.500 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+13:13:19.500 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:13:19.605 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:13:21.106 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:13:21.355 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:13:21.472 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:13:22.263 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+13:13:22.263 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:13:23.158 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:13:24.621 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:13:24.873 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:13:24.985 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:13:25.777 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+13:13:25.778 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:13:26.733 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:13:28.206 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:13:28.489 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:13:28.628 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:15:50.968 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+13:15:51.024 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+13:15:51.358 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+13:15:52.640 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:15:53.288 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+13:15:54.040 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:15:54.265 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+13:15:54.268 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+13:15:58.500 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTest****
+13:15:58.501 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:15:58.630 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:15:59.932 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:16:00.132 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:16:00.273 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:16:01.749 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002 LoginTest****
+13:16:03.246 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+13:16:03.247 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:16:03.435 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:16:04.859 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:16:05.121 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:16:05.240 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:16:06.024 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+13:16:06.026 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:16:06.887 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:16:08.371 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:16:08.625 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:16:08.730 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:16:09.439 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002 LoginTDD****
+13:16:09.440 [main] INFO  testCases.TC_002_LoginTest - *** Navigate  to log in button *** 
+13:16:10.304 [main] INFO  testCases.TC_002_LoginTest - *** Click on  log in button *** 
+13:16:11.808 [main] INFO  testCases.TC_002_LoginTest - *** Enter your Email address  *** 
+13:16:12.033 [main] INFO  testCases.TC_002_LoginTest - *** Enter your password address  *** 
+13:16:12.142 [main] INFO  testCases.TC_002_LoginTest - *** Click on Sign in button  *** 
+13:38:41.817 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+13:38:41.933 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+13:38:42.227 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+13:38:43.515 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:38:44.405 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+13:38:44.857 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:38:44.945 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+13:38:44.948 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+13:39:21.355 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+13:39:21.426 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+13:39:21.746 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+13:39:23.202 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:39:24.257 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+13:39:24.709 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:39:24.806 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+13:39:24.810 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
+13:43:03.105 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Starting TC_01_AccountRegisterationTest *** 
+13:43:03.206 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Navigate  to log in button *** 
+13:43:03.542 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on  log in button *** 
+13:43:04.918 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:43:06.113 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Providing customer data *** 
+13:43:06.623 [main] INFO  testCases.TC_001_AccountRegisterationTest - *** Click on Create Account button *** 
+13:43:06.730 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Validating page title *** 
+13:43:06.734 [main] INFO  testCases.TC_001_AccountRegisterationTest - ***Finished TC_001_AccountRegisterationTest *** 
